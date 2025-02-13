@@ -16,6 +16,6 @@
 > #### Give description of what this release offers
 > #### List all features merged into this Version
 > - ✅ feature/jack
-    >  - `quick desc. of what this is.`
+>  - `quick desc. of what this is.`
 > - ✅ feature/jill
 
